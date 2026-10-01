@@ -1,0 +1,6 @@
+{
+  "name": "ScholarOS 1000 - The 1,000-Feature Study Operating System",
+  "description": "An ultra-complete study workspace with 1,000 integrated learning tools, spaced repetition, Feynman studio, interactive concept graph, formula engines, and ambient soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
